@@ -3,8 +3,8 @@
  * User Profile
  */
 var profile = {
-  userName: 'saml.jackson@example.com',
-  nameIdFormat: 'urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress',
+  userName: 'test@example.com',
+  nameIdFormat: 'urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified',
   firstName: 'Saml',
   lastName: 'Jackson',
   displayName: 'saml jackson',
